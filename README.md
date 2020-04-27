@@ -8,6 +8,6 @@ Data Tier: Relational Database – MySQL
 
 CRUD Operation used to add books by the store manager 
 Employee and Manager can view the order lists
-Cutomers can delete books from the cart
+Customers can delete books from the cart
 Customers can update personal information
 Managers can update existing products in cart
